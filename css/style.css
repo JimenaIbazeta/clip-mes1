@@ -1,0 +1,48 @@
+body{
+  background-color: #9D320D;
+}
+h1 {
+  color: #ffffff;
+  font-weight: normal;
+  font-family: Book Antiqua;
+  font-size: 60px;
+}
+ul {
+  list-style-type: square;
+  font-size: 25px;
+  color: #ffffff;
+}
+a{
+  color: #ffffff;
+}
+table {
+  border-spacing: 2px;
+width: 60%;
+}
+
+table, th, td {
+border: 1px solid black;
+}
+
+table thead, th {
+  background-color: #5a5f68;
+  color: #fff;
+  font-weight: bold;
+}
+
+table tbody {
+  background-color: #fff;
+}
+
+table tfoot {
+  background-color: #5a5f68;
+  color: #fff;
+}
+
+td.top {
+vertical-align: top;
+}
+
+td.bottom {
+vertical-align: bottom;
+}
